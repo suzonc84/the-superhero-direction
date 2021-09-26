@@ -1,0 +1,11 @@
+@media (min-width: 1000px){
+    .physicianDiv{
+        display:grid;
+        grid-template-columns:auto auto auto;
+        
+    }
+    
+}
+.physicianCart{
+    margin-left: 20px;
+}
